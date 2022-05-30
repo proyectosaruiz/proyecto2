@@ -29,7 +29,3 @@ npm install mysql2
 npm install bcrypt
 
 npm install jsonwebtoken
-
-Para gestionar los errores
- .prettier.js
- .eslint.js
